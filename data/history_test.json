@@ -1,0 +1,9 @@
+[
+  {
+    "id": "cea95d51-eea7-405f-a135-ff9ecc29ba94",
+    "customer_id": "cust1",
+    "action": "payment",
+    "amount": 200,
+    "timestamp": "2024-10-05T16:00:35.4336352+07:00"
+  }
+]

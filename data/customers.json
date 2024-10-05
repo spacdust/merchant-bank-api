@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cust1",
+    "name": "Abdul",
+    "hashed_password": "$2a$10$QZBdy40Yvd65gxPVHEpEkuFplaF9xKDjrM9UfuTP4TDzhrPJOklpi",
+    "balance": 900
+  },
+  {
+    "id": "cust2",
+    "name": "Ari",
+    "hashed_password": "$2a$10$7Qd6pqkJr0VfO2.k1cG6F.1ZiK7rF1POJrYcI3ZQwKKF7Y6uxgU2e",
+    "balance": 1600
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1e6f39c5-4c98-4f29-932c-6d144d2627e5",
+    "customer_id": "cust1",
+    "action": "payment",
+    "amount": 100,
+    "timestamp": "2024-10-05T16:34:25.2333145+07:00"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cust1",
+    "name": "Abdul",
+    "hashed_password": "",
+    "balance": 800
+  },
+  {
+    "id": "cust2",
+    "name": "Ari",
+    "hashed_password": "",
+    "balance": 700
+  }
+]
