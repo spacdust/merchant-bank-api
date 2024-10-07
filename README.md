@@ -38,7 +38,6 @@ Merchant-Bank API adalah backend service yang menyediakan fungsionalitas untuk l
 
 **Login**
 POST http://localhost:8080/login
-
     ```sh
     {
     "id": "cust1",
@@ -48,7 +47,6 @@ POST http://localhost:8080/login
 
 **Payment**
 POST http://localhost:8080/payment
-
     ```sh
     {
         "from_id": "cust1",
